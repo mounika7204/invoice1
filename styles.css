@@ -35,7 +35,7 @@ body,html{
 }
 .invoice-info{
     margin-top: 50px;
-    margin-left: 190px;
+    margin-left: 170px;
 }
 .invoice-info h3{
     margin-left: 40px;
@@ -342,7 +342,10 @@ margin-left: 20px;
    display: none;
   }
   .p1{
-    margin-left: 1px;
+    margin-left: -40px;
+}
+.p2,.p3{
+  margin-left: 50px;
 }
 .info-block14{
     margin-right: 0px;
