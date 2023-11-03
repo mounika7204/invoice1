@@ -178,7 +178,7 @@ margin-left: 20px;
 }
 .price1{
     margin-top: 10px;
-    margin-left: 150px;
+    margin-left: 200px;
 }
 .info-block8{
     display: flex;
@@ -191,7 +191,7 @@ margin-left: 20px;
 .unit2{
     margin-left: 380px;
 }.price2{
-    margin-left: 150px;
+    margin-left: 200px;
 }
 .info-block9{
     display: flex;
@@ -202,7 +202,10 @@ margin-left: 20px;
     margin-top: 0px;
 }
 .price3{
-    margin-left: 200px;
+    margin-left: 250px;
+}
+.price4{
+  margin-left: 200px;
 }
 .line {
     border-top: 2px solid black;
